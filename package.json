@@ -1,7 +1,13 @@
 {
   "name": "tic-tac-toe",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "keywords": [
+    "react",
+    "lesson"
+  ],
+  "author": "GeoDaoyu <geodaoyu@foxmail.com>",
+  "license": "MIT",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
